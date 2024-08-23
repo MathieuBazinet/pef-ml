@@ -3,6 +3,7 @@ Repository of the paper :
 ## Electrical current conditions applied in an electromembrane process allow a sustainable peptide fractionation and bioactivity modulation: a comprehensive machine learning-based peptidomic approach.
 
 This paper was published in Aurore Cournoyer's thesis : 
+
 Cournoyer, A. (2024). Étude de l’impact des conditions de courants électriques sur la séparation électromembranaire de fractions peptidiques antimicrobiennes à partir d’un hydrolysat de cruor porcin dans une perspective d’économie circulaire et identification de nouvelles séquences antifongiques [PhD thesis]. Laval University.
 
 If you use this code, cite our paper : 
