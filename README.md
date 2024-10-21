@@ -1,6 +1,6 @@
 Repository of the paper : 
 
-## Electrical current conditions applied in an electromembrane process allow a sustainable peptide fractionation and bioactivity modulation: a comprehensive machine learning-based peptidomic approach.
+## How peptide migration and fraction bioactivity are modulated by applied electrical current conditions during electromembrane process separation: A comprehensive machine learning-based peptidomic approach.
 
 This paper was published in Aurore Cournoyer's thesis : 
 
@@ -10,9 +10,7 @@ If you use this code, cite our paper :
 
 ```
 Cournoyer, A.; Bazinet, M.; Clément, J-.P.; Plante, P-.L.; Fliss, I.; Bazinet, L.
-Electrical current conditions applied in an electromembrane process allow a sustainable
-peptide fractionation and bioactivity modulation: a comprehensive machine learning-based
-peptidomic approach.
+How peptide migration and fraction bioactivity are modulated by applied electrical current conditions during electromembrane process separation: A comprehensive machine learning-based peptidomic approach.
 ```
 
 
