@@ -9,8 +9,9 @@ Cournoyer, A. (2024). Étude de l’impact des conditions de courants électriqu
 If you use this code, cite our paper : 
 
 ```
-Cournoyer, A.; Bazinet, M.; Clément, J-.P.; Plante, P-.L.; Fliss, I.; Bazinet, L.
-How peptide migration and fraction bioactivity are modulated by applied electrical current conditions during electromembrane process separation: A comprehensive machine learning-based peptidomic approach.
+Aurore Cournoyer, Mathieu Bazinet, Jean-Pierre Clément, Pier-Luc Plante, Ismail Fliss, Laurent Bazinet,
+How peptide migration and fraction bioactivity are modulated by applied electrical current conditions during electromembrane process separation: A comprehensive machine learning-based peptidomic approach,
+Food Research International, 2024, 115417, ISSN 0963-9969, https://doi.org/10.1016/j.foodres.2024.115417. (https://www.sciencedirect.com/science/article/pii/S096399692401487X)
 ```
 
 
