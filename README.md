@@ -13,6 +13,19 @@ Aurore Cournoyer, Mathieu Bazinet, Jean-Pierre Clément, Pier-Luc Plante, Ismail
 How peptide migration and fraction bioactivity are modulated by applied electrical current conditions during electromembrane process separation: A comprehensive machine learning-based peptidomic approach,
 Food Research International, 2024, 115417, ISSN 0963-9969, https://doi.org/10.1016/j.foodres.2024.115417. (https://www.sciencedirect.com/science/article/pii/S096399692401487X)
 ```
+or 
+```
+@article{COURNOYER2024115417,
+title = {How peptide migration and fraction bioactivity are modulated by applied electrical current conditions during electromembrane process separation: A comprehensive machine learning-based peptidomic approach},
+journal = {Food Research International},
+pages = {115417},
+year = {2024},
+issn = {0963-9969},
+doi = {https://doi.org/10.1016/j.foodres.2024.115417},
+url = {https://www.sciencedirect.com/science/article/pii/S096399692401487X},
+author = {Aurore Cournoyer and Mathieu Bazinet and Jean-Pierre Clément and Pier-Luc Plante and Ismail Fliss and Laurent Bazinet},
+}
+```
 
 
 #### How do you use the code
