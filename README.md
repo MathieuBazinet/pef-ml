@@ -13,7 +13,18 @@ Aurore Cournoyer, Mathieu Bazinet, Jean-Pierre Clément, Pier-Luc Plante, Ismail
 How peptide migration and fraction bioactivity are modulated by applied electrical current conditions during electromembrane process separation: A comprehensive machine learning-based peptidomic approach,
 Food Research International, 2024, 115417, ISSN 0963-9969, https://doi.org/10.1016/j.foodres.2024.115417. (https://www.sciencedirect.com/science/article/pii/S096399692401487X)
 ```
-or 
+
+
+#### How do you use the code
+`main.py` creates the summary heatmaps found in the paper. 
+
+`mean_values.py`, `median_values.py`, `three_values.py` and `mmit_values.py` create the individual heatmaps.
+
+`feature_importance.py` gets the feature importance for all experiments.
+
+`tree_similarity.py` computes the Rand index between two classification trees.
+
+Citation information : 
 ```
 @article{COURNOYER2024115417,
 title = {How peptide migration and fraction bioactivity are modulated by applied electrical current conditions during electromembrane process separation: A comprehensive machine learning-based peptidomic approach},
@@ -26,13 +37,3 @@ url = {https://www.sciencedirect.com/science/article/pii/S096399692401487X},
 author = {Aurore Cournoyer and Mathieu Bazinet and Jean-Pierre Clément and Pier-Luc Plante and Ismail Fliss and Laurent Bazinet},
 }
 ```
-
-
-#### How do you use the code
-`main.py` creates the summary heatmaps found in the paper. 
-
-`mean_values.py`, `median_values.py`, `three_values.py` and `mmit_values.py` create the individual heatmaps.
-
-`feature_importance.py` gets the feature importance for all experiments.
-
-`tree_similarity.py` computes the Rand index between two classification trees.
